@@ -42,6 +42,7 @@
     "no-console": "off",
     "no-useless-constructor": "off",
     "no-empty-function": "off",
+    "no-param-reassign": ["error", { "props": false }],
     "lines-between-class-members": "off",
     "import/extensions": [
       "error",
